@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1679854391 source:c:\users\alex\desktop\lab poo\proiect\main.cpp
+	<iostream>
+	<cstring>
+	"Student.h"
+	"Grupa.h"
+	"Profesor.h"
+	"Note.h"
+	"Statistica.h"
+
+1679847683 source:c:\users\alex\desktop\lab poo\proiect\src\student.cpp
+	"Student.h"
+	<iostream>
+
+1679852895 c:\users\alex\desktop\lab poo\proiect\include\student.h
+	<cstring>
+	<iostream>
+	"Note.h"
+
+1679572703 c:\users\alex\desktop\lab poo\proiect\include\grupa.h
+	<iostream>
+	<cstring>
+	"Student.h"
+	"Profesor.h"
+
+1679849680 source:c:\users\alex\desktop\lab poo\proiect\src\grupa.cpp
+	"Grupa.h"
+	<iostream>
+	"Student.h"
+	"Profesor.h"
+
+1679847230 c:\users\alex\desktop\lab poo\proiect\include\profesor.h
+	<iostream>
+	<cstring>
+	"Student.h"
+	"Note.h"
+
+1679847658 source:c:\users\alex\desktop\lab poo\proiect\src\profesor.cpp
+	"Profesor.h"
+	<iostream>
+	<cstring>
+
+1679852895 c:\users\alex\desktop\lab poo\proiect\include\note.h
+	<iostream>
+
+1679852895 source:c:\users\alex\desktop\lab poo\proiect\src\note.cpp
+	"Note.h"
+
+1679853496 source:c:\users\alex\desktop\lab poo\proiect\src\statistica.cpp
+	"Statistica.h"
+
+1679855560 c:\users\alex\desktop\lab poo\proiect\include\statistica.h
+	<iostream>
+	"Student.h"
+	<cstring>
+
