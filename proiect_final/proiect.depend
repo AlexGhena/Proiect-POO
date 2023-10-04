@@ -1,0 +1,179 @@
+# depslib dependency file v1.0
+1684716617 source:c:\users\alex\desktop\lab poo\proiect\main.cpp
+	<iostream>
+	<cstring>
+	"Student.h"
+	"Grupa.h"
+	"Profesor.h"
+	"Note.h"
+	"Statistica.h"
+	"InterfataStatistica.h"
+	"PROFESOR_LFASIPOO.h"
+	"Profesor_LFA.h"
+	"Profesor_POO.h"
+	<vector>
+
+1684718575 source:c:\users\alex\desktop\lab poo\proiect\src\student.cpp
+	"Student.h"
+	<iostream>
+
+1684743368 c:\users\alex\desktop\lab poo\proiect\include\student.h
+	<cstring>
+	<iostream>
+	<vector>
+	<algorithm>
+	"Note.h"
+	<regex>
+
+1684716444 c:\users\alex\desktop\lab poo\proiect\include\grupa.h
+	<iostream>
+	<cstring>
+	"Student.h"
+	"Profesor.h"
+
+1684716681 source:c:\users\alex\desktop\lab poo\proiect\src\grupa.cpp
+	"Grupa.h"
+	<iostream>
+	"Student.h"
+	"Profesor.h"
+
+1683052326 c:\users\alex\desktop\lab poo\proiect\include\profesor.h
+	<iostream>
+	<cstring>
+	"Student.h"
+	"Note.h"
+
+1679847658 source:c:\users\alex\desktop\lab poo\proiect\src\profesor.cpp
+	"Profesor.h"
+	<iostream>
+	<cstring>
+
+1684745450 c:\users\alex\desktop\lab poo\proiect\include\note.h
+	<vector>
+	<algorithm>
+	<iostream>
+	<memory>
+
+1679852895 source:c:\users\alex\desktop\lab poo\proiect\src\note.cpp
+	"Note.h"
+
+1679853496 source:c:\users\alex\desktop\lab poo\proiect\src\statistica.cpp
+	"Statistica.h"
+
+1684715312 c:\users\alex\desktop\lab poo\proiect\include\statistica.h
+	<iostream>
+	"Student.h"
+	<cstring>
+	"InterfataStatistica.h"
+
+1683034061 source:c:\users\alex\desktop\lab poo\proiect\src\interfatastatistica.cpp
+	"InterfataStatistica.h"
+
+1683034266 c:\users\alex\desktop\lab poo\proiect\include\interfatastatistica.h
+
+1683050256 source:c:\users\alex\desktop\lab poo\proiect\src\profesor_lfa.cpp
+	"Profesor_LFA.h"
+
+1683049865 c:\users\alex\desktop\lab poo\proiect\include\profesor_lfa.h
+	<iostream>
+	<cstring>
+	"Profesor.h"
+
+1683050256 source:c:\users\alex\desktop\lab poo\proiect\src\profesor_poo.cpp
+	"Profesor_POO.h"
+
+1683050278 c:\users\alex\desktop\lab poo\proiect\include\profesor_poo.h
+	<iostream>
+	<cstring>
+	"Profesor.h"
+
+1683050256 source:c:\users\alex\desktop\lab poo\proiect\src\profesor_lfasipoo.cpp
+	"PROFESOR_LFASIPOO.h"
+
+1683052287 c:\users\alex\desktop\lab poo\proiect\include\profesor_lfasipoo.h
+	"Profesor_LFA.h"
+	"Profesor_POO.h"
+	"Profesor.h"
+
+1684716681 source:c:\users\alex\desktop\chestii fac\lab poo\proiect\src\grupa.cpp
+	"Grupa.h"
+	<iostream>
+	"Student.h"
+	"Profesor.h"
+
+1684716444 c:\users\alex\desktop\chestii fac\lab poo\proiect\include\grupa.h
+	<iostream>
+	<cstring>
+	"Student.h"
+	"Profesor.h"
+
+1684743368 c:\users\alex\desktop\chestii fac\lab poo\proiect\include\student.h
+	<cstring>
+	<iostream>
+	<vector>
+	<algorithm>
+	"Note.h"
+	<regex>
+
+1684745450 c:\users\alex\desktop\chestii fac\lab poo\proiect\include\note.h
+	<vector>
+	<algorithm>
+	<iostream>
+	<memory>
+
+1683052326 c:\users\alex\desktop\chestii fac\lab poo\proiect\include\profesor.h
+	<iostream>
+	<cstring>
+	"Student.h"
+	"Note.h"
+
+1683034061 source:c:\users\alex\desktop\chestii fac\lab poo\proiect\src\interfatastatistica.cpp
+	"InterfataStatistica.h"
+
+1683034266 c:\users\alex\desktop\chestii fac\lab poo\proiect\include\interfatastatistica.h
+
+1679852895 source:c:\users\alex\desktop\chestii fac\lab poo\proiect\src\note.cpp
+	"Note.h"
+
+1679847658 source:c:\users\alex\desktop\chestii fac\lab poo\proiect\src\profesor.cpp
+	"Profesor.h"
+	<iostream>
+	<cstring>
+
+1683050256 source:c:\users\alex\desktop\chestii fac\lab poo\proiect\src\profesor_lfa.cpp
+	"Profesor_LFA.h"
+
+1683049865 c:\users\alex\desktop\chestii fac\lab poo\proiect\include\profesor_lfa.h
+	<iostream>
+	<cstring>
+	"Profesor.h"
+
+1683050256 source:c:\users\alex\desktop\chestii fac\lab poo\proiect\src\profesor_lfasipoo.cpp
+	"PROFESOR_LFASIPOO.h"
+
+1683052287 c:\users\alex\desktop\chestii fac\lab poo\proiect\include\profesor_lfasipoo.h
+	"Profesor_LFA.h"
+	"Profesor_POO.h"
+	"Profesor.h"
+
+1683050278 c:\users\alex\desktop\chestii fac\lab poo\proiect\include\profesor_poo.h
+	<iostream>
+	<cstring>
+	"Profesor.h"
+
+1683050256 source:c:\users\alex\desktop\chestii fac\lab poo\proiect\src\profesor_poo.cpp
+	"Profesor_POO.h"
+
+1679853496 source:c:\users\alex\desktop\chestii fac\lab poo\proiect\src\statistica.cpp
+	"Statistica.h"
+
+1684715312 c:\users\alex\desktop\chestii fac\lab poo\proiect\include\statistica.h
+	<iostream>
+	"Student.h"
+	<cstring>
+	"InterfataStatistica.h"
+
+1685418225 source:c:\users\alex\desktop\chestii fac\lab poo\proiect\src\student.cpp
+	"Student.h"
+	<iostream>
+
